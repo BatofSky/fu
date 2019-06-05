@@ -1,0 +1,29 @@
+.top{
+	height: 50px;
+}
+.mid{
+	height: 1200px
+}
+.bgi{
+	background-image: url(bg.png);
+	background-size: 100% 100%
+}
+.tm{
+	height: 170px
+}
+.ppap{
+	height: 450px
+}
+.bgiq{
+	background-image: url(image.jpg);
+	background-size: 100% 100%
+}
+.tm1{
+	height: 130px
+}
+.tm12{
+	height: 300px
+}
+.bgii{
+	background-image: url(template.png);
+	background-size: 100% 100%
